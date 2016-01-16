@@ -1,6 +1,6 @@
 # blender-cheatsheet
 
-> A handy guide to Blender's hotkeys :+1:
+> A handy guide to [Blender](https://www.blender.org/) hotkeys :+1:
 
 
 # General
